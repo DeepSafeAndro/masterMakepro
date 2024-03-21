@@ -1,0 +1,38 @@
+Privacy Policy
+
+Introduction
+
+This Privacy Policy provides information on how we collect, use, and safeguard your personal data when you interact with our application (the "App"). We recommend that you review this policy to understand our privacy practices. By utilizing the App, you are agreeing to the collection and use of information in accordance with this policy. We may occasionally update this policy, and we will notify you of any changes by posting the revised policy on the App or our website and other communication channels. By continuing to use the App after these changes, you accept the revised Privacy Policy.
+
+Data Collection Methods
+Our data collection includes:
+
+Non-personal information such as device specifications, language preferences, network details, operating system, unique device identifiers, geographical location, app usage patterns, and interaction data.
+Personal information that may include your name, date of birth, gender, phone number, email address, username, and other identifying details, as well as data from your Google account if you sign up using Google.
+Data Usage
+The data we collect is used for:
+
+Providing and enhancing our Services, confirming identities, facilitating communication, and serving targeted advertisements.
+Improving the in-app experience and customizing offers and promotions to your interests.
+Security purposes, maintaining the integrity of our system, and preventing unauthorized or illegal activities.
+Compliance with legal and regulatory obligations.
+Data Sharing
+We do not sell, trade, or rent your personal information. We partner with third-party service providers and partners, including subcontractors, affiliates, commercial entities, fulfillment services, and marketing agencies, to support our Services. We may share your information with these entities under strict privacy and security conditions, in line with Google's Privacy Guidelines.
+
+Data Protection
+We implement recognized security measures, including physical, administrative, and technical safeguards, as well as encryption where suitable, to protect your data from unauthorized access, disclosure, alteration, and destruction.
+
+Data Retention Period
+We retain your personal data for as long as necessary to provide the Services, for the purposes for which it was collected, to comply with legal obligations, or until you request its deletion. After this period, we will either delete or anonymize your data for analytical purposes.
+
+EU Resident Provisions
+EEA residents have rights to access personal data, request corrections, file complaints with data protection authorities, and obtain copies of personal data. Data may be transferred outside the EEA to countries with varying data protection standards, and by using the App, you consent to these transfers. Consent can be withdrawn at any time.
+
+Child Protection
+We do not intentionally collect information from children under 13 years old (or under 16 in the EEA). If a parent or guardian becomes aware that their child has provided us with personal information without their consent, they should contact us to have it removed.
+
+Your Data Rights
+You have the option to update or correct your personal data through your App account or by contacting us. You also have the right to limit data processing, request data deletion, access your data, request copies of your data, object to certain data uses, or revoke consent. To exercise these rights, please contact us for identity verification.
+
+Contact Information
+Should you have any inquiries about your personal data or this Privacy Policy, please contact us
